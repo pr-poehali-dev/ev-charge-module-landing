@@ -71,7 +71,7 @@ const Index = () => {
     <div className="min-h-screen">
       <nav className="fixed top-0 w-full bg-background/80 backdrop-blur-md z-50 border-b border-border">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <h1 className="text-2xl font-bold gradient-text">ВЗМ Системы</h1>
+          <h1 className="text-2xl font-bold gradient-text">ООО "АЛРУС"</h1>
           <div className="flex gap-6">
             <button onClick={() => scrollToSection('hero')} className="text-foreground/80 hover:text-primary transition-colors">
               Главная
@@ -250,7 +250,7 @@ const Index = () => {
 
       <footer className="py-8 px-4 border-t border-border">
         <div className="container mx-auto text-center text-foreground/60">
-          <p>© 2024 ВЗМ Системы. Все права защищены.</p>
+          <p>© 2024 ООО "АЛРУС". Все права защищены.</p>
         </div>
       </footer>
     </div>
